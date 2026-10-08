@@ -1,4 +1,22 @@
 {
- "atualizado_em": "2026-10-08T10:11",
- "vagas": []
+ "atualizado_em": "2026-10-08T10:22",
+ "vagas": [
+  {
+   "codigo": "TESTE-01",
+   "loja": "Loja Teste",
+   "cargo": "Atendente",
+   "turno": "Noite",
+   "abertura": null,
+   "salario_aprovado": true,
+   "vaga_oris": true,
+   "candidato": "T.T.",
+   "d0": "2026-07-10",
+   "docs": null,
+   "oris": null,
+   "aso": null,
+   "admissao": null,
+   "inicio": null,
+   "situacao": "Ativa"
+  }
+ ]
 }
