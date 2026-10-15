@@ -1,21 +1,21 @@
 {
- "atualizado_em": "2026-10-08T10:36",
+ "atualizado_em": "2026-10-15T14:04",
  "vagas": [
   {
    "codigo": "TESTE-01",
    "loja": "Loja Teste",
    "cargo": "Atendente",
    "turno": "Noite",
-   "abertura": "2026-01-10",
+   "abertura": "2026-10-01",
    "salario_aprovado": true,
    "vaga_oris": true,
    "candidato": "T.",
-   "d0": "2026-07-10",
-   "docs": "2026-08-10",
-   "oris": "2026-08-10",
-   "aso": "2026-08-10",
-   "admissao": "2026-12-10",
-   "inicio": "2026-12-10",
+   "d0": "2026-10-07",
+   "docs": "2026-10-08",
+   "oris": "2026-10-08",
+   "aso": "2026-10-08",
+   "admissao": "2026-10-12",
+   "inicio": "2026-10-12",
    "situacao": "Ativa"
   },
   {
@@ -27,7 +27,7 @@
    "salario_aprovado": false,
    "vaga_oris": false,
    "candidato": "J.",
-   "d0": "2026-01-10",
+   "d0": "2026-10-01",
    "docs": null,
    "oris": null,
    "aso": null,
