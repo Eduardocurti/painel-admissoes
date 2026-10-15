@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-10-15T14:04",
+ "atualizado_em": "2026-10-15T16:13",
  "vagas": [
   {
    "codigo": "TESTE-01",
@@ -23,6 +23,23 @@
    "loja": "Loja Teste",
    "cargo": "Caixa",
    "turno": null,
+   "abertura": "2026-09-25",
+   "salario_aprovado": false,
+   "vaga_oris": false,
+   "candidato": "J.",
+   "d0": "2026-10-01",
+   "docs": null,
+   "oris": null,
+   "aso": null,
+   "admissao": null,
+   "inicio": null,
+   "situacao": "Ativa"
+  },
+  {
+   "codigo": "TESTE-03",
+   "loja": "Loja Teste",
+   "cargo": "Boqueta",
+   "turno": "Tarde",
    "abertura": "2026-09-25",
    "salario_aprovado": false,
    "vaga_oris": false,
