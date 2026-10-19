@@ -191,7 +191,7 @@ function analisar(v){
       if(dias(d0,adm) > 7) alertas.push(`Início em D+${dias(d0,adm)}`);
       if(!dataPermitida(adm)) alertas.push("Data fora da regra seg/qui");
     }
-    if(idx===0 && v.abertura && dias(dt(v.abertura),HOJE) > 10) alertas.push(`Aberta há ${dias(dt(v.abertura),HOJE)} dias`);
+    if(idx===0 && v.abertura && dias(dt(v.abertura),HOJE) > 20) alertas.push(`Aberta há ${dias(dt(v.abertura),HOJE)} dias`);
   }
   return {...v, idx, encerrada, decorridos, alertas, atraso: alertas.length>0};
 }
